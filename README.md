@@ -6,4 +6,4 @@
   <img alt="My LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I'm Abby, a current undergraduate data scientist and computer engerneering enthusist.
+I'm Abby, a current undergraduate data science student and computer engerneering enthusiast.
