@@ -1,5 +1,5 @@
 # Heya!
-I am a undergraduate Data Science and AI student based in the south west of England.<br><br>I am currently looking for a data science placement! If you (or anyone you know) is looking for an undergraduate placement student (anywhere in the world) please message me on my LinkedIn, I would love to have a chat.
+I Abby, an undergraduate Data Science and AI student based in the south west of England.<br><br>I am currently looking for a data science placement! If you (or anyone you know) is looking for an undergraduate placement student (anywhere in the world) please message me on my LinkedIn, I would love to have a chat.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abigale-burt-15244626a/) 
