@@ -7,3 +7,5 @@
 </a>
 
 I'm Abby, a current undergraduate data science student and computer engerneering enthusiast.
+
+I am currently looking for a data science placement! If you (or anyone you know) is looking for an undergraduate placement student (anywhere in the world) please message me on my LinkedIn, I would love to have a chat.
